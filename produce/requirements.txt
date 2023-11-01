@@ -1,0 +1,6 @@
+python-dotenv
+kafka-python
+tweepy
+pymongo
+lxml
+snscrape

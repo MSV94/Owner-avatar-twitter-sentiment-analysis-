@@ -1,0 +1,7 @@
+kafka-python
+pymongo
+textblob
+textblob-fr
+pyspark==3.2.1
+findspark
+pandas
